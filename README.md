@@ -1,2 +1,2 @@
-# Color-Clicker
-Memory game in React
+# Clicker-Game
+Memory game in React featuring Octonauts

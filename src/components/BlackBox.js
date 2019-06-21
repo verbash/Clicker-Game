@@ -5,7 +5,7 @@ function BlackBox({id,url,iWasClicked}) {
     return (
  
     <div className="box col" onClick={iWasClicked}>
-        <img src= {url} id={id} alt="id"/>
+        <img src={url} id={id} alt="id"/>
     </div>
 
     

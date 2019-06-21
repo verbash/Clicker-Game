@@ -1,35 +1,50 @@
 [
 {
-    "url": "http://www.octonauts.com/im/barnacles.png",
-    "id" : 1
+    "url": "././img/barnacles.png",
+    "id" : 1,
+    "beenClicked" : false
 },
 {
-    "url": "http://www.octonauts.com/im/kwazii.png",
-    "id" : 2
+    "url": "././img/kwazii.png",
+    "id" : 2,
+    "beenClicked" : false
+    
 },
 {
-    "url": "http://www.octonauts.com/im/peso.png",
-    "id" : 3
+    "url": "././img/peso.png",
+    "id" : 3,
+    "beenClicked" : false
+    
 },
 {
-    "url": "http://www.octonauts.com/im/dashi.png",
-    "id" : 4
+    "url": "././img/dashi.png",
+    "id" : 4,
+    "beenClicked" : false
+    
 },
 {
-    "url": "http://www.octonauts.com/im/shellington.png",
-    "id" : 5
+    "url": "././img/shellington.png",
+    "id" : 5,
+    "beenClicked" : false
+    
 },
 {
-    "url": "http://www.octonauts.com/im/tweak.png",
-    "id" : 6
+    "url": "././img/tweak.png",
+    "id" : 6,
+    "beenClicked" : false
+    
 },
 {
-    "url": "http://www.octonauts.com/im/inkling.png",
-    "id" : 7
+    "url": "././img/inkling.png",
+    "id" : 7,
+    "beenClicked" : false
+    
 },
 {
-    "url": "http://www.octonauts.com/im/tunip.png",
-    "id" : 8
+    "url": "././img/tunip.png",
+    "id" : 8,
+    "beenClicked" : false
+    
 }
 
 
